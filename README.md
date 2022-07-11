@@ -1,7 +1,7 @@
-# this repository consists of all the projects of
-# supervised machine learning and unsupervised machine learning and
-# and deep learning 
-# projects:
+- this repository consists of all the projects of
+- supervised machine learning and unsupervised machine learning and
+  and deep learning 
+### projects:
  1. linear regression
  2. logistic regression
  3. k means clustering

@@ -1,14 +1,13 @@
-- this repository consists of all the projects of
-- supervised machine learning and unsupervised machine learning and
-  and deep learning 
-### projects:
- 1. linear regression
- 2. logistic regression
- 3. k means clustering
- 4. dimentionality reduction(pca)
- 5. anomaly detection
- 6. k nn 
- 7. random forests 
- 8. recommender systems
- 9. deep learning projects
+- this repository consists of all  the machine learning problems
+  both supervised and unsupervised
+  1. housing price prediction(linear regression problem)
+      1. using regular linear regression
+      2. using knn regressor
+      3. using decision tree regressor
+      4. using random forest regressor
+  2. handwritten digits classifier(multi classification problem)
+      1. using knn classifier
+      2. using decision tree classifier
+      3. using random forest classifier
+  3.  
       

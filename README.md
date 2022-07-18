@@ -20,5 +20,5 @@
       2. using isolation forests
   6.  CLOATHING CLASSIFICATION MODEL
       1. using a CNN
-      2. using a ANN
+
       

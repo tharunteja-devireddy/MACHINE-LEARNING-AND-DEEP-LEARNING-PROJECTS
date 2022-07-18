@@ -9,5 +9,16 @@
       1. using knn classifier
       2. using decision tree classifier
       3. using random forest classifier
-  3.  
+  3.  CLUSTERING DATA TO EXTACT USEFUL INSIGHT'S FROM IT
+      1. using python
+      2. using sklearn in python
+  4.  DIMENTIONALITY REDUCTION 
+      1. by implementing pca in python
+      2. using sklearn pca 
+  5.  ANOMALY DETECTION
+      1. using one class svm
+      2. using isolation forests
+  6.  CLOATHING CLASSIFICATION MODEL
+      1. using a CNN
+      2. using a ANN
       
